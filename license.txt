@@ -1,0 +1,18 @@
+Here’s an updated license text incorporating your requirements:
+
+---
+
+**A1 Scripts Mod - Grand Theft Auto V Single-Player Basic Scripts Mod **  
+Copyright (C) 2024 EVTECH PLAYS
+
+This software package, including its contents, files, and modifications (referred to as the "A1ScriptsMod Package"), is the exclusive property of EVTECH PLAYS. Redistribution or modification of this OpenIV package is strictly prohibited. Users are not allowed to copy, redistribute, or share the A1ScriptsMod files by any means, including but not limited to re-uploading, mirroring, or hosting on other websites.
+
+However, users are permitted to share the **official download page link** of this package hosted on [GitHub](https://github.com/evtechcodr/A1ScriptsMod). Any form of linking must redirect users to the official repository or download page.
+
+This software is provided without warranty of any kind. It is owned and managed solely by EVTECH PLAYS, and no liability will be assumed for its usage or for any potential issues arising from its use.
+
+For further details on permissions and restrictions, please visit our official [GitHub page](https://github.com/evtechcodr/A1ScriptsMod).
+
+---
+
+Let me know if you’d like further adjustments!
