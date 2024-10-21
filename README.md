@@ -2,7 +2,6 @@
 [or A1 Scripts Mod] - Basic Scripts and mod menu for Grand Theft Auto V (single-player).
 
 ---
-[![GitHub Latest Nightly](https://img.shields.io/github/v/release/evtechcodr/A1ScriptsMod?include_prereleases&label=pre-release&logo=GitHub)](https://github.com/evtechcodr/A1ScriptsMod/releases/tag/latest)  
 [![GitHub Latest Release](https://img.shields.io/github/downloads/evtechcodr/A1ScriptsMod/latest/total?label=latest-release&logo=GitHub)](https://github.com/evtechcodr/A1ScriptsMod/releases/latest)  
 [![GitHub All Releases](https://img.shields.io/github/downloads/evtechcodr/A1ScriptsMod/total?label=all-releases&logo=GitHub)](https://github.com/evtechcodr/A1ScriptsMod/releases)
 
