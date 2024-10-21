@@ -1,18 +1,31 @@
-Here’s an updated license text incorporating your requirements:
-
 ---
 
-**A1 Scripts Mod - Grand Theft Auto V Single-Player Basic Scripts Mod **  
+**A1ScriptsMod License**  
 Copyright (C) 2024 EVTECH PLAYS
 
-This software package, including its contents, files, and modifications (referred to as the "A1ScriptsMod Package"), is the exclusive property of EVTECH PLAYS. Redistribution or modification of this OpenIV package is strictly prohibited. Users are not allowed to copy, redistribute, or share the A1ScriptsMod files by any means, including but not limited to re-uploading, mirroring, or hosting on other websites.
+This software package (referred to as the "A1ScriptsMod Package") includes components from the following third-party projects:
 
-However, users are permitted to share the **official download page link** of this package hosted on [GitHub](https://github.com/evtechcodr/A1ScriptsMod). Any form of linking must redirect users to the official repository or download page.
+- **ScriptHookV** by Alexander Blade  
+- **ScriptHookVDotNet** by crosire  
+- **MenyooSP** by MAFINS
 
-This software is provided without warranty of any kind. It is owned and managed solely by EVTECH PLAYS, and no liability will be assumed for its usage or for any potential issues arising from its use.
+Each of these third-party components is subject to its own licensing terms, and all copyrights are retained by their respective owners.
 
-For further details on permissions and restrictions, please visit our official [GitHub page](https://github.com/evtechcodr/A1ScriptsMod).
+- **ScriptHookV** is the property of Alexander Blade. You can find more information and the license at [http://www.dev-c.com/gtav/scripthookv/](http://www.dev-c.com/gtav/scripthookv/).
+- **ScriptHookVDotNet** is the property of crosire. License details can be found at [https://github.com/crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet).
+- **MenyooSP** is the property of MAFINS. You can access the original repository and license information at [https://github.com/MAFINS/MenyooSP](https://github.com/MAFINS/MenyooSP).
+
+### License for A1ScriptsMod Package
+The **A1ScriptsMod Package**, which includes modifications and additional scripts created by EVTECH PLAYS, is subject to the following terms:
+
+1. **Non-Redistribution**: The A1ScriptsMod files are not redistributable. You are prohibited from copying, redistributing, or re-uploading the package or any of its contents on any platform without prior permission from EVTECH PLAYS.
+
+2. **Link Sharing**: Users are allowed to share the official download link to the A1ScriptsMod Package hosted on [GitHub](https://github.com/evtechcodr/A1ScriptsMod). Any distribution or sharing must redirect users to this official page.
+
+3. **No Modifications**: Modifying and repackaging the A1ScriptsMod files or any part of this package is not allowed without prior written consent from EVTECH PLAYS.
+
+4. **No Warranty**: This software is provided "as is," without any express or implied warranties. EVTECH PLAYS and the third-party developers of the included components disclaim all warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+For additional licensing information about third-party components, please refer to their respective repositories.
 
 ---
-
-Let me know if you’d like further adjustments!
