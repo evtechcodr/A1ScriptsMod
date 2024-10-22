@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Block certain files and directories from being indexed
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /scripts/
+
+# Block specific file types from being indexed
+Disallow: /*.exe$
+Disallow: /*.zip$
+Disallow: /*.pdf$
+
+# Sitemap location
+Sitemap: https://evtechcodr.github.io/A1ScriptsMod/sitemap.xml
