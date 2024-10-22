@@ -5,7 +5,7 @@
 [Visit Website](https://evtechcodr.github.io/A1ScriptsMod/)
 ---
 
-# A1 Scripts Mod OIV - [DOWNLOAD LATEST RELEASE](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V-0.1/A1.Scripts.Mod.By.EVTECH.Plays.oiv)   
+# A1 Scripts Mod OIV - [DOWNLOAD LATEST RELEASE](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V1.0.0/A1.Scripts.Mod.By.EVTECH.Plays.oiv)   
 ### A Comprehensive Mod Package for Grand Theft Auto V (Single-Player)
 
 ---
@@ -28,7 +28,7 @@ This OpenIV package contains all essential scripts and a mod menu trainer for GT
 
 ## Requirements
 
-- OpenIV Setup - [**Download**](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V-0.1/OpenIVSetup.exe)
+- OpenIV Setup - [**Download**](https://github.com/evtechcodr/A1ScriptsMod/releases/download/V1.0.0/OpenIVSetup.exe)
 
 ## Installation
 
